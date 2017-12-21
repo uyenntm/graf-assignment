@@ -427,18 +427,14 @@ copyright{
     }
     
 }
-@media only screen and (max-height:568px) {
-   
-    
-    
+@media only screen and (max-height:768px) {
     #main .container{
         height: 20%;  
     }
     footer{
-       height: 30%;
-       bottom: -80%;
-    }
-    
+       height: 10%;
+       bottom: -30%;
+    } 
     
 }
 
